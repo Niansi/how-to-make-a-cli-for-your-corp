@@ -18,10 +18,11 @@ A well-designed CLI fixes this by:
 ## Table of Contents
 
 1. [SSO Authentication — The "It Just Works" Login Flow](./chapters/01-sso-auth.md)
-2. *(WIP) Command Discovery & Manifests*
-3. *(WIP) HTTP vs Script Commands*
-4. *(WIP) Plugin / Skill Architecture*
-5. *(WIP) Distribution & Auto-Update*
+2. [Capture & Replay — Reverse-Engineering APIs from Browser Interactions](./chapters/02-capture-and-replay.md)
+3. *(WIP) Command Discovery & Manifests*
+4. *(WIP) HTTP vs Script Commands*
+5. *(WIP) Plugin / Skill Architecture*
+6. *(WIP) Distribution & Auto-Update*
 
 ## Who This Is For
 
